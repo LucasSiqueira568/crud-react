@@ -1,0 +1,11 @@
+main > div {
+    background-color: #FFF;
+    box-shadow: 0px 0px 15px #0004;
+}
+
+@media(max-width: 567px) {
+    tr > buttom {
+        display: flex;
+        flex-direction: column;
+    }
+}
